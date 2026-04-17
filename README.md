@@ -2,7 +2,7 @@
 #paraphrased from chatgpt but mostly quoted as base code for a poc.
 # 🧱 Lego Chain Blocks
 
-> A system forged in chaos, refined under pressure, and absolutely started by my ass during wartime.
+> A system forged in chaos, refined under pressure, and absolutely started by chatgpts a#$ during wartime.
 
 ---
 
