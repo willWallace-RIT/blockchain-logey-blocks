@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xREPLACE_WITH_REAL",
+    "position": { "x": 0, "y": 0, "z": 0 },
+    "rotation": 0
+  },
+  {
+    "address": "0xREPLACE_WITH_REAL",
+    "position": { "x": 1, "y": 0, "z": 0 },
+    "rotation": 90
+  }
+]
